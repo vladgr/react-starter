@@ -15,8 +15,8 @@ This starter kit contains:
 
 ### Installation
 
-npm install 
-npm start
+* npm install 
+* npm start
 
 Development server will be running on localhost:8080
 

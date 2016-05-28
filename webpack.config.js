@@ -33,5 +33,6 @@ module.exports = {
   devServer: {
     contentBase: __dirname + '/dist',
     hot: true,
+    historyApiFallback: true
   }
 };
